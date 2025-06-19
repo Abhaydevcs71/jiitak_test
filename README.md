@@ -1,3 +1,4 @@
+![1000083684](https://github.com/user-attachments/assets/1e18de63-9c02-4f3f-b90f-8e6352ccd4ef)
 # jiitak_test
 
 # 🌤️ Weather & News Aggregator App
