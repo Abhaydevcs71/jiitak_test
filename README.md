@@ -1,4 +1,4 @@
-![1000083684](https://github.com/user-attachments/assets/1e18de63-9c02-4f3f-b90f-8e6352ccd4ef)
+
 # jiitak_test
 
 # 🌤️ Weather & News Aggregator App
@@ -101,3 +101,4 @@ Hot	            Fear, Danger
 Warm            Winning, Positivity, Happiness
 Cold            Depression, Tragedy![1000083682](https://github.com/user-attachments/assets/82ee313c-accf-4922-a9db-425c191ca69e)
 ![1000083680](https://github.com/user-attachments/assets/8d5b3800-f12b-4d9d-9135-81539c094ad7)
+![1000083684](https://github.com/user-attachments/assets/1e18de63-9c02-4f3f-b90f-8e6352ccd4ef)
